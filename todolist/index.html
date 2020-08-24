@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel='stylesheet' type='text/css' href='index.css'>
+    <title>Something</title>
+</head>
+
+<body>
+    <span class="js-weather weather"></span>
+    <div class="center">
+    <MARQUEE><p class='notice'>새로 고침 하면 배경이 랜덤으로 바뀌어요</p></MARQUEE>
+        <div class="js-clock clock">
+            <h3>00:00</h3>
+        </div>
+
+        <div class='nameNToDO'>
+            <form class="js-form form">
+                <input class="js-input" type="text" placeholder="What is your name?" />
+            </form>
+
+            <h5 class="js-greetings greetings"></h5>
+
+            <form class="js-toDoForm toDoForm">
+                <input type="text" placeholder="Write a to do" />
+            </form>
+
+            <ul class="js-toDoList toDoList">
+            </ul>
+        </div>
+
+    </div>
+
+
+    <script src='js/clock.js'></script>
+    <script src='js/greeting.js'></script>
+    <script src="js/todo.js"></script>
+    <script src="js/bg.js"></script>
+    <script src="js/weather.js"></script>
+</body>
+
+</html>

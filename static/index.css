@@ -12,7 +12,8 @@ html, body{
 
 body {
     background-color: #0B0B3B !important;
-    font-family: 'Noto Sans KR', sans-serif !important;
+    font-family:'NeoDunggeunmo';
+    /* font-family: 'Noto Sans KR', sans-serif !important; */
     color: #ffffff  !important;
     display: flex;
     align-items: center;
@@ -20,7 +21,6 @@ body {
 }
 
 header {
-    font-family:'NeoDunggeunmo';
     color:#FA58D0;
     font-size: 3em;
     padding-top: 3em;
@@ -45,9 +45,6 @@ footer{
     margin-top: auto;
 }
 
-
-
-
 footer > p {
     color: #7a7d84;
     font-weight: 100;
@@ -55,6 +52,10 @@ footer > p {
     margin: 0;
 }
 
+a{
+    all: unset;
+    cursor: pointer;
+}
 
 
 /* 
