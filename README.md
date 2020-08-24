@@ -1,2 +1,5 @@
 # ttaerrim.github.io
-My github blog
+-----
+### What I made with JavaScript
+- [x] Paint
+- [x][To Do List] 
