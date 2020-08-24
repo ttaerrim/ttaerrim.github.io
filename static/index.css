@@ -37,7 +37,7 @@ header {
 }
 
 .item {
-    padding: 20px;
+    padding: 50px;
     text-align: center;
     font-size: 2em;
 }
@@ -46,7 +46,7 @@ header {
     padding-bottom: 10px;
 }
 .item img {
-    width: 70%;
+    width: 130px;
 }
 
 main a {
