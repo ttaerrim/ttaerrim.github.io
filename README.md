@@ -2,4 +2,4 @@
 -----
 ### What I made with JavaScript
 - [x] Paint
-- [x][To Do List] 
+- [x] To Do List
